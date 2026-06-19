@@ -26,20 +26,8 @@ A React-based E-Commerce Web Application developed using React JS and Vite.
 
 ## Installation
 
+Run the following commands:
+
 ```bash
 npm install
 npm run dev
-```
-
-## Future Improvements
-
-- Backend Integration
-- Database Support
-- JWT Authentication
-- Razorpay Payment Gateway
-- Product Reviews
-- Wishlist Feature
-
-## Developed By
-
-Pujitha Naidu
